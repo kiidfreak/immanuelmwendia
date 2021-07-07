@@ -253,7 +253,7 @@ textarea.error {
 }
 
 #nav-sticky-wrapper.is-sticky #nav {
-	background:linear-gradient(90deg, rgba(96, 98, 101, 0.95) 0, rgba(9, 50, 71, 0.9)) !important;
+	    background: linear-gradient(90deg, rgba(96, 98, 101, 0.95) 0, rgba(9, 50, 71, 0.9)) !important;
 }
 
 #nav ul {
