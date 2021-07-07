@@ -6,7 +6,7 @@
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 <link rel="icon" href="MM.png">
-<link rel="stylesheet" href="style-en.css" media="screen">
+<link rel="stylesheet" href="style-en1.css" media="screen">
 <link href="css.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="normalize.css" media="screen">
 <link rel="stylesheet" href="qbkl-grid.css" media="screen">
@@ -25,8 +25,8 @@
 			left: 15px;
 			top: 20px;
 			text-decoration: none;
-			color: #ffffff;
-		">Herzlich willkommen </a>
+			color: #ffffff;"
+		>Herzlich willkommen </a>
 </div>
 
 
