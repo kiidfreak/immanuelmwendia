@@ -2,7 +2,9 @@ jQuery( document ).ready( function( $ ){
 
 	// Intro size setup
 
-	setupIntro(); // On ready, resize intro
+	setupIntro();
+
+	 // On ready, resize intro
 
 	$( window ).resize( function() { setupIntro(); } ); // On resize
 
@@ -56,5 +58,5 @@ jQuery( document ).ready( function( $ ){
 	);
 
 	// Full background image
-	$( '.fx-backstretch' ).find( '.info' ).backstretch( '/assets/img/backstretch.jpg' );
+	$( '.fx-backstretch' ).find( '.info' ).backstretch( 'Images/backstretch.jpg' );
 });
