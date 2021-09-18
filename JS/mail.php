@@ -1,7 +1,7 @@
 <?php
-if($_POST["message"];
-   $_POST["name"];
-   $_POST["email"];
+if($_POST["message"]
+   $_POST["name"]
+   $_POST["email"]
   ) 
 {
 mail("imaina671@gmail.com", "Email Notification",
