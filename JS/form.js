@@ -18,7 +18,7 @@ $(document).ready(function () {
 			l.start();
 			$.ajax({
 				type: "POST",
-				url: "mail.php",
+				url: "/mail.php",
 				data: {
 					name: name,
 					email: email,
