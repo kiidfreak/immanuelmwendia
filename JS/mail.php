@@ -1,7 +1,5 @@
 <?php
-$message =$_POST["message"];
-$name =$_POST['name'];
-$email =$_POST['email'];
+
 
 if(
    $_POST["message"]
