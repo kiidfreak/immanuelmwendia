@@ -6,6 +6,7 @@ $(document).ready(function () {
 		var name = $("#name").val();
 		var email = $("#email").val();
 		var message = $("#message").val();
+
 		if ($.trim(name) == "") {
 			$("#name").focus();
 		} else if ($.trim(email) == "") {
@@ -17,7 +18,7 @@ $(document).ready(function () {
 			l.start();
 			$.ajax({
 				type: "POST",
-				url: "/js/mail.php",
+				url: "mail.php",
 				data: {
 					name: name,
 					email: email,
